@@ -6,7 +6,8 @@ I am Seunghwan Lee working in Samsung electronics.
 
 I'm junior SW developer and in Smartfactory working Group.
 
-I'm developing my skills in Frontend domain especially Platform engineering like 3D Virtual Factory and Mes System.
+I'm developing my skills in Frontend domain especially Platform engineering
+ans interested in Platform Engineer of AI, ROBOT, CLOUD service
 
 Feel Free to contact me and leave me a message!!
 
