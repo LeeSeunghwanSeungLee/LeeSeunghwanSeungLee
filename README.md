@@ -4,19 +4,21 @@
 
 ☑️ I am Seunghwan Lee in Samsung electronics Corp. 
 
-☑️ I'm junior SW developer and working in Smartfactory working Group.
+☑️ junior SW developer and working in Smartfactory working Group, Global Technology Center (Suwon).
 
-☑️ I'm developing my skills in Frontend domain especially Platform engineering about AI, ROBOT, Smart Factory, CLOUD Service
+☑️ developing skills in Frontend domain.
 
-☑️ Interestingly, I majored in Mechanical Engineer.
+☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, CLOUD Service
+
+☑️ Interestingly, I majored in Mechanical Engineering.
 
 Feel Free to contact me and leave me a message!!
 
 
 ## Resume
 * Intership in Continental Automotive System (icheon) (2019)
-* Majored in Mechanical Engineering in Hanynag university(~2020)
-* Joined Smartfactory Working Group in Global Technology Center in Samsung elec.(2020 ~ )
+* Graduated Hanynag university(M.E)(~2020)
+* Joined Smartfactory Working Group in Samsung elec.(2020 ~ )
 --------------------
 ## Projects
 * Smart Comprehensive Control & Monitoring System - (Web/Client)
