@@ -6,7 +6,7 @@
 
 ☑️ junior SW developer and working in Smartfactory working Group, Global Technology Center (Suwon).
 
-☑️ developing skills in Frontend domain.
+☑️ developing skills in Web Frontend & Server domain.
 
 ☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, CLOUD Service
 
