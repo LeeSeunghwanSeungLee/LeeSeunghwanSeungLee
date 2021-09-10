@@ -6,11 +6,11 @@
 
 ☑️ junior SW developer and working in Smartfactory working Group, Global Technology Center (Suwon).
 
-☑️ developing skills in Web Frontend & Server domain.
+☑️ developing skills in Web Service(Frontend & Server)
 
 ☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, CLOUD Service
 
-☑️ Interestingly, I majored in Mechanical Engineering.
+☑️ I majored in Mechanical Engineering.
 
 Feel Free to contact me and leave me a message!!
 
