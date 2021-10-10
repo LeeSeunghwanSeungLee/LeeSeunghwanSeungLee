@@ -28,9 +28,9 @@ Feel Free to contact me and leave me a message!!
 --------------------
 
 ## Skill Sets
-* Javascript (main language)
+* Javascript (main language) : node.js, Express, Vue.js, Vuex, Vuetify, Bootstrap ...
+* Java
 * Python
-* Nodejs
 * mssql
 * Oracle
-* Framworks (Vue.js ..)
+* MongoDB
