@@ -4,11 +4,9 @@
 
 ☑️ I am Seunghwan Lee in Samsung electronics Corp. 
 
-☑️ junior SW developer and working in Smartfactory working Group, Global Technology Center (Suwon).
+☑️ junior SW developer working in Smartfactory working Group, Global Technology Research (Suwon).
 
-☑️ developing skills in Web Service(Frontend & Server)
-
-☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, CLOUD Service
+☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, Data Engineering
 
 ☑️ I majored in Mechanical Engineering.
 
@@ -27,10 +25,22 @@ Feel Free to contact me and leave me a message!!
 * Web Crawling System to help to analyze competitors and to collecte new technologies in smartfactory
 --------------------
 
-## Skill Sets
-* Javascript (main language) : node.js, Express, Vue.js, Vuex, Vuetify, Bootstrap ...
+## programming langunage
+* Javascript
 * Java
 * Python
+* c++
+
+## Framework
+* Express(node)
+* nest js
+* Spring(Spring Boot..)
+* Vue.js
+* UI Framework(Vuetify, Quasar, bootstrap ...)
+
+## DataBase || Infra
+* Linux (Centos7, Ubuntu)
+* Docker, k8s
 * mssql
 * Oracle
 * MongoDB
