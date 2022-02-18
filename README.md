@@ -2,11 +2,13 @@
 --------------------
 # Hi there🇰🇷
 
-☑️ I am Seunghwan Lee in Samsung electronics Corp. 
+☑️ I am Seunghwan Lee in Samsung electronics GTR. 
 
-☑️ junior SW developer working in Smartfactory working Group, Global Technology Research (Suwon).
+☑️ junior SW developer Global Technology Research (Suwon).
 
-☑️ Intersted in Platform engineering about AI, ROBOT, Smart Factory, Data Engineering
+☑️ participate in sw challenge program
+
+☑️ Intersted in Platform application like AI, ROBOT
 
 ☑️ I majored in Mechanical Engineering.
 
@@ -17,30 +19,12 @@ Feel Free to contact me and leave me a message!!
 * Intership in Continental Automotive System (icheon) (2019)
 * Graduated Hanynag university(M.E)(~2020)
 * Joined Smartfactory Working Group in Samsung elec.(2020 ~ )
+* Participate in SW challenger program to develop SW skills
 --------------------
 ## Projects
-* Smart Comprehensive Control & Monitoring System - (Web/Client)
-* 3D Virtual Factory which is useful to make 3D Factory Design using Web Platform - (Web/Server, Client)
+* Smart Comprehensive Control & Monitoring System - (FE/BE)
+* 3D Virtual Factory which is useful to control version of Manufacture Information - (Vue.js, Express)
 * Predict LockDown in specific cities using machine learning
 * Web Crawling System to help to analyze competitors and to collecte new technologies in smartfactory
+* Manufacture Search Engine - (BE, Data Engineering) 
 --------------------
-
-## programming langunage
-* Javascript
-* Java
-* Python
-* c++
-
-## Framework
-* Express(node)
-* nest js
-* Spring(Spring Boot..)
-* Vue.js
-* UI Framework(Vuetify, Quasar, bootstrap ...)
-
-## DataBase || Infra
-* Linux (Centos7, Ubuntu)
-* Docker, k8s
-* mssql
-* Oracle
-* MongoDB
