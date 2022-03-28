@@ -17,7 +17,7 @@
 
 
 # Education📚
-## Hanyang Univercity
+## Hanyang University
 - BS Mechanical Engineering ( ~ 2020.02)
 
 if you want to see detail, please visit [here](https://leeseunghwanseunglee.github.io/)
