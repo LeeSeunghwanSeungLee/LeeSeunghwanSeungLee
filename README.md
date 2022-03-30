@@ -6,7 +6,15 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/MySQL-165b9c?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/TensorFlow-f9b61a?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Keras-eb3431?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/JupyterLab-f9b61a?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp </br> <img src="https://img.shields.io/badge/GoogleColab-f9cc1a?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Selenium-22c853?style=flat-square&logo=Selenium&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Sklearn-f9b61a?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Tableau-165b9c?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/ApacheHive-FDEE21?style=flat-square&logo=ApacheHive&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/MySQL-165b9c?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-f9b61a?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Keras-eb3431?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JupyterLab-f9b61a?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/GoogleColab-f9cc1a?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Sklearn-f9b61a?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 
 
 
