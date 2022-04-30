@@ -23,18 +23,15 @@
 ## Samsung Electronics GTR - S/W Engineer ( ~ present)
 
 * participate in s/w challenger project
-  - Develop Search Engine platform of Manufacture
+  - Develop Search Engine platform for Global Technology Research
   - Backend && Data Engineer
-  - Use Nestjs, Neo4j, ELK, RDB, python, pytorch, Docker, k8s, Git, Github ...
-
-*  SmartFactory Working Group
-  - Frontend && Backend
-  - Use Vue.js, Express, Msssql ...
+*  SmartFactory Working Group- Frontend && Backend Engineer
+  - Frontend & Backend Engineer
 
 
 ## Continental Automotive System - Intern
 
-- Manage Supplier's Tool in Purchasing Development Department
+* Manage Supplier's Tool in Purchasing Development Department
 
 
 # Education📚
@@ -45,8 +42,8 @@
 if you want to see detail, please visit [here](https://leeseunghwanseunglee.github.io/)
 
 # Projects 📝
-* Smart Comprehensive Control & Monitoring System - (FE/BE)
-* 3D Virtual Factory which is useful to control version of Manufacture Information - (Vue.js, Express)
+* Smart Comprehensive Control & Monitoring System
+* 3D Virtual Factory which is useful to control version of Manufacture Information
 * Predict LockDown in specific cities using machine learning
-* Web Crawling System to help to analyze competitors and to collecte new technologies in smartfactory
-* Manufacture Search Engine - (BE, Data Engineering) 
+* Web Crawling System for new technology sensing
+* Manufacture Search Engine
