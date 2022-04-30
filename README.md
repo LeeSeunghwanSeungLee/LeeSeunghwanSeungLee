@@ -23,15 +23,13 @@
 ## Samsung Electronics GTR - S/W Engineer ( ~ present)
 
 * participate in s/w challenger project
-
-- Develop Search Engine platform of Manufacture
-- Backend && Data Engineer
-- Use Nestjs, Neo4j, ELK, RDB, python, pytorch, Docker, k8s, Git, Github ...
+  - Develop Search Engine platform of Manufacture
+  - Backend && Data Engineer
+  - Use Nestjs, Neo4j, ELK, RDB, python, pytorch, Docker, k8s, Git, Github ...
 
 *  SmartFactory Working Group
-
-- Frontend && Backend
-- Use Vue.js, Express, Msssql ...
+  - Frontend && Backend
+  - Use Vue.js, Express, Msssql ...
 
 
 ## Continental Automotive System - Intern
@@ -42,8 +40,7 @@
 # Education📚
 
 * Hanyang University
-
-- BS Mechanical Engineering ( ~ 2020.02)
+  - BS Mechanical Engineering ( ~ 2020.02)
 
 if you want to see detail, please visit [here](https://leeseunghwanseunglee.github.io/)
 
