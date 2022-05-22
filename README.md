@@ -1,9 +1,10 @@
-# Things I code with
+# Things I Experienced
 ### Programming Language
 <p>
-  <img alt="Python" src ="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="JavaScirpt" src="https://img.shields.io/badge/Javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Python" src ="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Cloud
@@ -15,10 +16,10 @@
 
 ### Data Engineering
 <p>
-  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-165b9c?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&locoColor=black" />
+  <img alt="Oracle" src="https://img.shields.io/badge/MySql-165b9c?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 </p>
 
 ### Data Science
@@ -32,7 +33,7 @@
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp 
+  <img alt="Kafka" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 </p>
 
 ### Backend
@@ -78,3 +79,11 @@ if you want to see detail, please visit [here](https://leeseunghwanseunglee.gith
 * Predict LockDown in specific cities using machine learning
 * Web Crawling System for new technology sensing
 * Manufacture Search Engine
+
+# ToyProject
+* [BankAccount](https://github.com/LeeSeunghwanSeungLee/BankAccount)
+* [PingPong](https://github.com/LeeSeunghwanSeungLee/pingpong-service-backend)
+* [JavaRacingCar](https://github.com/LeeSeunghwanSeungLee/java-racingcar-precourse)
+* [JavaBaseBall](https://github.com/LeeSeunghwanSeungLee/java-baseball-precourse)
+* [NewsCrawling](https://github.com/LeeSeunghwanSeungLee/news_crawling)
+* [NLP SandBox](https://github.com/LeeSeunghwanSeungLee/nlp-sandbox)
