@@ -22,15 +22,6 @@
   <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 </p>
 
-### Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-f9b61a?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Keras-eb3431?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JupyterLab-f9b61a?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GoogleColab-f9cc1a?style=flat-square&logo=GoogleColab&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Sklearn-f9b61a?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
-</p>
-
 ### Frontend
 <p>
   <img alt="Kafka" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
