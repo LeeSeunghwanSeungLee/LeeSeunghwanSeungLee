@@ -20,6 +20,7 @@
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&locoColor=black" />
   <img alt="Oracle" src="https://img.shields.io/badge/MySql-165b9c?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img alt="Airflow" src="https://jawabsoal.live/baca-https-camo.githubusercontent.com/0acc8a884e05c44f2c86da34d24967345e88e2b95e64b7c67ba9babbdb1a15a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416972666c6f772d2532333030374138382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6170616368652d616972666c6f77266c6f676f436f6c6f723d7768697465" />
 </p>
 
 ### Frontend
