@@ -44,7 +44,7 @@
 
 # Career💼
 
-## Samsung Electronics GTR - S/W Engineer ( ~ present)
+## Samsung Electronics GTR - S/W Engineer (2020.03 ~ 2022.09)
 
 * participate in s/w challenger project
   - Develop Search Engine platform for Global Technology Research
