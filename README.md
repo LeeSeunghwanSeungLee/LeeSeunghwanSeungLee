@@ -43,6 +43,9 @@
 
 
 # Career💼
+## Kakao - S/W Engineer (2022.09 ~ )
+
+* Cloud Platform Backend Developer
 
 ## Samsung Electronics GTR - S/W Engineer (2020.03 ~ 2022.09)
 
